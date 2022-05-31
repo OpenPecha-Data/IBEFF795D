@@ -1,0 +1,25 @@
+id: IBEFF795D
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:59:58.058685'
+last_modified: '2022-05-31T06:59:58.058691'
+parser: null
+source_metadata:
+  title: Rogza Sönam Palge
+  language: bo
+  description: 'Texts by and about Rogza Sönam Palge (rog bza'' bsod nams dpal dge,
+    1800–1884):'
+  volume:
+    fEF61:
+      title: In Praise of Sönam Palge
+      base_file: fEF61.txt
+      order: 1
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
